@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, Rania here! 
 
-<!--
-**Rania-Waseem/Rania-Waseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- I am currently studying Computer Science
+- I'm new to GitHub and trying its various features
+- Really interested in AI and ML 
 
-Here are some ideas to get you started:
+## What I’m working on
+- AI and ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My hobbies
+- Coding
+- Reading
+- Baking
